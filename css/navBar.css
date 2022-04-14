@@ -1,0 +1,27 @@
+.navbar {
+  position: sticky;
+  position: fixed;
+  /* top: 0; */
+  /* width: 100%; */
+  /* z-index: 1; */
+  text-transform: uppercase;
+}
+
+#content {
+  background-color: var(--white);
+}
+
+.navbar-brand {
+  font-family: var(--navFont);
+}
+
+.navbar-nav {
+  margin-left: auto; /* tells element to move elements to the right */
+}
+
+nav a {
+  font-size: 9px;
+  letter-spacing: 1.5px;
+  text-decoration: none;
+  text-transform: uppercase;
+}

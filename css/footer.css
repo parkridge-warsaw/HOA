@@ -1,0 +1,40 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: var(--lightGray);
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  /* font-size: 9pt; */
+  text-transform: uppercase;
+}
+
+footer {
+  color: var(--black);
+  padding: 15px;
+}
+
+footer p {
+  margin: 0;
+  /* font-size: 8pt; */
+  padding: 0;
+}
+
+footer p a {
+  color: var(--hyperlink);
+}
+
+a#footer-facebook,
+a#footer-nextdoor {
+  text-decoration: none;
+  /* font-size: 36px; */
+  color: var(--black);
+}
+
+p#privacy-link a {
+  color: var(--hyperlink);
+}
+
+p#privacy-link a:visited {
+  color: var(--hyperlink-visited);
+}
