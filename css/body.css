@@ -27,6 +27,15 @@ main {
     display: block;
     margin-top: 200px;
 }
+p.copy {
+    text-align: left;
+}
+
+p.copy ul, p.copy ul li {
+    text-align: left;
+    margin-left: 20px;
+}
+
 .main-body {
     text-align: left;
   /* font-size: 9pt; */
