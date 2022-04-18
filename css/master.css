@@ -10,4 +10,5 @@ body {
 @import "variables.css";
 @import "navBar.css";
 @import "body.css";
+@import "blog.css";
 @import "footer.css";
